@@ -3,7 +3,7 @@ name: '#1 User Story'
 about: 'The only user story for this assignment'
 title: 'Workflow Integrating Strategies'
 labels: story
-assignees: ''
+
 
 ---
 
